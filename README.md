@@ -1,1 +1,2 @@
-# lesson-2
+Lesson 2 
+https://mikalion.github.io/lesson-2/
